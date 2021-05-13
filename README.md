@@ -1,4 +1,3 @@
 # mini-projects
-A place for all of my mini projects
 
-Currently praticing Python
+A place for all of my mini projects
